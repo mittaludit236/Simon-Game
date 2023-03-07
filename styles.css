@@ -51,4 +51,16 @@ body {
     box-shadow: 0 0 20px white;
     background-color: grey;
   }
+footer{
+  font-family: cursive;
+  text-align: right;
+}  
+a{
+  text-decoration: none;
+  color: aliceblue;
+  font-weight: bold;
+}
+a:hover{
+  color: bisque;
+}
   
